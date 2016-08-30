@@ -1,5 +1,13 @@
 # Sharad's GROCERY STORE
 
+I did not use the Rakefile so just use the command:
+
+irb -r ./app.rb
+
+in the final\_ruby_exercise directory.
+
+##Intro
+
 A simple grocery store where you can register, buy and manage fruit stock while also keeping up to date with sales.
 
 ## Register a fruit
